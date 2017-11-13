@@ -16,4 +16,3 @@ Draining ends when all async queries end; the function blocks for the entire tim
 \details{
 The async query callback will only fire during \code{drainConnection} or (opportunistically) \code{\link{cursorNext}}; consequently this function must be run to guarantee that installed callbacks will have a chance to fire.
 }
-

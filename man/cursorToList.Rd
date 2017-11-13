@@ -24,4 +24,3 @@ The lenght of a list may be larger than \code{maxResults} because RethinkDB tran
 \author{
 Miron B. Kursa
 }
-

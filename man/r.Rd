@@ -39,7 +39,28 @@ If you get "trying to apply non-function" error, you likely have misspelled term
 
 To view raw AST (at any depth), use \code{$query}.
 }
+\examples{
+\dontrun{
+#Connect to the RethinkDB instance
+cn<-openConnection()
+
+#Get document count in some_db's some_table
+r()$db("some_db")$table("some_table")$count()$run(cn)
+#...same can be done shorter
+r("some_db","some_table")$count()$run(cn)
+
+#Fetch 5 random docs from some_db's some_table...
+r("some_db","some_table")$sample(5)$run(cn)->cursor
+#...and present as a list`
+cursorToList(cursor)
+
+#Insert an element
+r("some_db","some_table")$insert(list(id="new",a=1:10,b=list(c=1,d=2)))$run(cn)
+
+#Close connection
+close(cn)
+}
+}
 \author{
 Miron B. Kursa
 }
-

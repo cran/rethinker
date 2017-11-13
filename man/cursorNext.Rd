@@ -27,4 +27,3 @@ In case you don't need any more answers for the query, close cursor with \code{c
 \author{
 Miron B. Kursa
 }
-

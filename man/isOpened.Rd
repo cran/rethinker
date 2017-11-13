@@ -19,4 +19,3 @@ Closed connections cannot be used, and will throw errors on such an attempt; the
 \author{
 Miron B. Kursa
 }
-

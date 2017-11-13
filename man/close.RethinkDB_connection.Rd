@@ -14,4 +14,3 @@
 \description{
 Closes connection and stops all associated callbacks and/or sync cursor.
 }
-

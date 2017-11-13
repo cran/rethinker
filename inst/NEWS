@@ -1,0 +1,6 @@
+Changes in 1.1.0:
+ - AST generation errors fixed.
+ - Documentation updates.
+
+Changes in 1.0.0:
+  - First public release.

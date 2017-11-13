@@ -23,4 +23,3 @@ Changefeeds cursors (made with \code{r()$...$changes()$...}) will never become e
 \author{
 Miron B. Kursa
 }
-

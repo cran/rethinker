@@ -17,4 +17,3 @@ Prints a given cursor's status.
 \note{
 Never blocks; also checks whether the underlying connection is alive.
 }
-

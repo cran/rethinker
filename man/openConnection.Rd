@@ -22,4 +22,3 @@ Object of a class \code{RethinkDB_connection}, which can be passed to \code{r()$
 \description{
 Opens connection to a given RethinkDB server.
 }
-

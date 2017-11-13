@@ -15,4 +15,3 @@
 Closes a given cursor and stops its associated query.
 Should be called on the current cursor before a new sync query is invoked on the same connection.
 }
-

@@ -17,4 +17,3 @@ Prints a RethinkDB connection details, including a number of pending callbacks.
 \note{
 Never blocks.
 }
-
