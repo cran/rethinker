@@ -1,3 +1,6 @@
+Changes in 2.0.0:
+ - Back on CRAN.
+
 Changes in 1.1.0:
  - AST generation errors fixed.
  - Documentation updates.

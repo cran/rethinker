@@ -1,9 +1,9 @@
-9453989844928cae067fdf30a15cc851 *DESCRIPTION
+bf0954bea6f77514f037d7fa410aa0b7 *DESCRIPTION
 55f52b9a3daaec8b8bc0e5f5e6adf599 *NAMESPACE
 83df3bcf4839297b6dc78a296024b2ff *R/cursor.R
 842a6189a571aba3a2d4951ac470aa6b *R/reql.R
 bda51c1ffb5f3511fed01a4029886d1f *R/wire.R
-ef4338811bc5a2656b67cd645186bde0 *inst/NEWS
+483eaa14e5ff13f136b3cea1116e8614 *inst/NEWS
 4ae1fa9ff4f1146546c9ee5b992a3352 *man/close.RethinkDB_connection.Rd
 eacb37e165d13c00683fba20b551fd4e *man/close.RethinkDB_cursor.Rd
 9279850a0c4aa77e506980a366b98bec *man/cursorNext.Rd
@@ -11,10 +11,9 @@ eacb37e165d13c00683fba20b551fd4e *man/close.RethinkDB_cursor.Rd
 a1f0b5214373e6874a9a6343665a5a9d *man/drainConnection.Rd
 bf166f7696433894eda94e97bc79ede8 *man/isCursorEmpty.Rd
 5928906c9d854b24dea60b302fbe0977 *man/isOpened.Rd
-247f3f3deba9bed09907117a5062f7e3 *man/openConnection.Rd
+1d34ac235d7612079fef3b9e28df686d *man/openConnection.Rd
 af0d00c2dca26fe4924c19ac7e96d162 *man/print.RethinkDB_connection.Rd
 0e08637b80e7200c88c5538a645eb2d2 *man/print.RethinkDB_cursor.Rd
 416cd7927a7d6a22d24c8d3d2de06edb *man/r.Rd
 dade48b04931403905475a23befc3717 *tests/testthat.R
 d98882c2c368907299eae0d7acd7254b *tests/testthat/testAst.R
-13d1aa807ba27141c8e98ff4c3bddbf0 *tests/testthat/testTransactions.R

@@ -4,8 +4,7 @@
 \alias{openConnection}
 \title{Open connection to a RethinkDB server}
 \usage{
-openConnection(host = "localhost", port = 28015, authKey = NULL,
-  v = "V0_4")
+openConnection(host = "localhost", port = 28015, authKey = NULL, v = "V0_4")
 }
 \arguments{
 \item{host}{Host to connect to.}
